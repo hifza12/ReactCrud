@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "name": "hifza",
+      "mobile": "03302942261",
+      "email": "hifza12@gmail.com",
+      "password": "hsdaj",
+      "id": 2
+    },
+    {
+      "name": "hifza 12",
+      "mobile": "2234",
+      "email": "hifzasay12@gmail.com",
+      "password": "sayyab",
+      "id": 3
+    },
+    {
+      "name": "checked",
+      "mobile": "1234",
+      "email": "check12@gmail.com",
+      "password": "hasj",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
